@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Chantouch 👋
+
+- 🔭 I’m currently working on web development.
 
 <!--
 **Chantouch/chantouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
