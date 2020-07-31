@@ -1,18 +1,13 @@
-### Hi there, I am Chantouch 👋
+### Hi there 👋 
+### I am Chantouch.
+#### Author [@BookingKH](https://bookingkh.com)
 
-- 🔭 I’m currently working on web development.
+Skills: JS / VUE JS / NUXTJS / REACT (MIDDLE) / / NODEJS / LARAVEL / TYPESCRIPT / RAILS
 
-<!--
-**Chantouch/chantouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on bookingkh.com. 🌱 I’m currently learning PYTHON. 
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chantouch)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DevidCs83)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bookingkh.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chantouch&show_icons=true)
